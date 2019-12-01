@@ -1,0 +1,46 @@
+{
+  "docs": {
+    "Introduction to IIIF": [
+      "intro-to-iiif/welcome",
+      {
+        "type": "subcategory",
+        "label": "IIIF Introduction",
+        "ids": [
+          "intro-to-iiif/use-cases",
+          "intro-to-iiif/problem",
+          "intro-to-iiif/solution",
+          "intro-to-iiif/iiif-apis",
+          "intro-to-iiif/community-software"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "IIIF Image API",
+        "ids": [
+          "intro-to-iiif/image-api",
+          "intro-to-iiif/image-api-examples",
+          "intro-to-iiif/image-api-internals"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "IIIF Presentation API",
+        "ids": [
+          "intro-to-iiif/presentation-api",
+          "intro-to-iiif/manifest-structure",
+          "intro-to-iiif/more-presentation-api"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Other IIIF APIs",
+        "ids": [
+          "intro-to-iiif/other-apis"
+        ]
+      }
+    ],
+    "Annotations and IIIF": [
+      "annotations-and-iiif/intro"
+    ]
+  }
+}
