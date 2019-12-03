@@ -11,6 +11,16 @@ IIIF has several [stable specifications](https://iiif.io/technical-details/), ea
 
  ![IIIF Presentation vs. Image API Interface](/img/image_and_presentation_highlighted.png)
 
+
+## Coming soon, IIIF Image and Presentation v3.0
+While these have not yet been released in their final form, coming soon is a v3.0 of the Image and Presentation APIs.
+
+ - [IIIF Image API v3.0](https://iiif.io/api/image/3.0/) - https://iiif.io/api/image/3.0/
+ - [IIIF Presentation API v3.0](https://iiif.io/api/presentation/3.0/) - https://iiif.io/api/presentation/3.0/
+
+
+## Reflection
+
 > **Question:** How could these APIs benefit machine learning applications?
 
 > **Question:** How can you use machine learning to drive data for the IIIF APIs?
