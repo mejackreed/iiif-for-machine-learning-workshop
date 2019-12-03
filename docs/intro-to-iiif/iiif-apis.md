@@ -18,12 +18,14 @@ While these have not yet been released in their final form, coming soon is a v3.
  - [IIIF Image API v3.0](https://iiif.io/api/image/3.0/) - https://iiif.io/api/image/3.0/
  - [IIIF Presentation API v3.0](https://iiif.io/api/presentation/3.0/) - https://iiif.io/api/presentation/3.0/
 
+**IIIF Presentation API v3.0 now supports audio and visual content!**
+
 
 ## Reflection
 
 > **Question:** How could these APIs benefit machine learning applications?
 
-> **Question:** How can you use machine learning to drive data for the IIIF APIs?
+> **Question:** How can you use machine learning to create data/metadata for your digital content?
 
 ## More resources
  - [**The International Image Interoperability Framework (IIIF): A community & technology approach for web-based images**](https://pdfs.semanticscholar.org/b27b/109dfa6dc983b3bd2836d206292a1ef8d363.pdf) - https://pdfs.semanticscholar.org/b27b/109dfa6dc983b3bd2836d206292a1ef8d363.pdf (en)
