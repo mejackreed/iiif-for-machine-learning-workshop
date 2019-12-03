@@ -48,7 +48,9 @@
     "Machine learning applications using IIIF": [
       "machine-learning-iiif/intro",
       "machine-learning-iiif/sending-images-to-ml-services",
-      "machine-learning-iiif/annotation-formats-for-ml"
+      "machine-learning-iiif/annotation-formats-for-ml",
+      "machine-learning-iiif/histonets",
+      "machine-learning-iiif/kuronet"
     ]
   }
 }

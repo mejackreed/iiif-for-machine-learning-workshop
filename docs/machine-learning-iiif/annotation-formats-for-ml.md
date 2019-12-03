@@ -102,3 +102,6 @@ Several other formats exist for providing annotations in training data.
 
 
 > **Question** Could IIIF be used to help standardize this?
+
+
+### Next up, lets look at some case studies of machine learning / IIIF projects
